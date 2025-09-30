@@ -1,0 +1,22 @@
+c:\users\dell\documents\visual studio 2015\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+c:\users\dell\documents\visual studio 2015\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+c:\users\dell\documents\visual studio 2015\Projects\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+c:\users\dell\documents\visual studio 2015\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.vbprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+c:\users\dell\documents\visual studio 2015\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+c:\users\dell\documents\visual studio 2015\Projects\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\pc\Desktop\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+C:\Users\pc\Desktop\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+C:\Users\pc\Desktop\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+C:\Users\pc\Desktop\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
+C:\Users\pc\Desktop\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+C:\Users\pc\Desktop\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+C:\Users\pc\Desktop\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+C:\Users\pc\Desktop\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.vbprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Form1.resources
+C:\Users\pc\Desktop\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+C:\Users\pc\Desktop\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.vbproj.GenerateResource.Cache
